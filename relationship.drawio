@@ -339,13 +339,21 @@
           <mxGeometry x="480" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nF9ob22Ww1jEvOqiuLQN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-29" target="nF9ob22Ww1jEvOqiuLQN-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1180" />
+              <mxPoint x="440" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nF9ob22Ww1jEvOqiuLQN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-29" target="nF9ob22Ww1jEvOqiuLQN-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-29" target="nF9ob22Ww1jEvOqiuLQN-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nF9ob22Ww1jEvOqiuLQN-29" value="社交磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="1160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nF9ob22Ww1jEvOqiuLQN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-31" target="nF9ob22Ww1jEvOqiuLQN-35">
           <mxGeometry relative="1" as="geometry">
@@ -380,6 +388,9 @@
         </mxCell>
         <mxCell id="nF9ob22Ww1jEvOqiuLQN-44" value="避免异类发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-47" value="异类面前伪装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
