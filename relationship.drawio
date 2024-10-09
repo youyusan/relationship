@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4IEP01IrufHuFwD-Q-TS" name="社交原理">
-    <mxGraphModel dx="1415" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,9 @@
               <mxPoint x="120" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGCT3c2oRXeIfpcngwqY-1" target="nF9ob22Ww1jEvOqiuLQN-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGCT3c2oRXeIfpcngwqY-1" value="社交本质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
@@ -446,6 +449,33 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-65" target="nF9ob22Ww1jEvOqiuLQN-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-65" target="nF9ob22Ww1jEvOqiuLQN-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-65" target="nF9ob22Ww1jEvOqiuLQN-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nF9ob22Ww1jEvOqiuLQN-65" target="nF9ob22Ww1jEvOqiuLQN-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-65" value="社交建议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-67" value="建立有意义&lt;br&gt;联系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-68" value="提高透明度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-69" value="调高感受" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nF9ob22Ww1jEvOqiuLQN-70" value="双向评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
