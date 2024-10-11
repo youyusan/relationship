@@ -496,6 +496,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-1" target="IAGtV4yYRNK7_tY3Lp3a-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IAGtV4yYRNK7_tY3Lp3a-1" value="取悦行为" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
         </mxCell>
@@ -586,6 +589,39 @@
         </mxCell>
         <mxCell id="IAGtV4yYRNK7_tY3Lp3a-31" value="凡事别人优先自己不重要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-33" target="IAGtV4yYRNK7_tY3Lp3a-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-33" target="IAGtV4yYRNK7_tY3Lp3a-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-33" target="IAGtV4yYRNK7_tY3Lp3a-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-33" target="IAGtV4yYRNK7_tY3Lp3a-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-33" target="IAGtV4yYRNK7_tY3Lp3a-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-33" value="调节方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-35" value="考虑关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-36" value="建立边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-37" value="积累自信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-38" value="课题分离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-39" value="停止内耗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
