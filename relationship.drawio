@@ -569,11 +569,23 @@
         <mxCell id="IAGtV4yYRNK7_tY3Lp3a-21" value="特异性自尊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-24" target="IAGtV4yYRNK7_tY3Lp3a-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IAGtV4yYRNK7_tY3Lp3a-24" value="别人&lt;br&gt;更重要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IAGtV4yYRNK7_tY3Lp3a-27" target="IAGtV4yYRNK7_tY3Lp3a-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IAGtV4yYRNK7_tY3Lp3a-27" value="别人的认可&lt;br&gt;才是对的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-29" value="扮演外界要求你成为的人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAGtV4yYRNK7_tY3Lp3a-31" value="凡事别人优先自己不重要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
