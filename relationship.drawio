@@ -815,6 +815,9 @@
         <mxCell id="P7pmvgULlBqukxCQ3UOA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-38" value="真实社交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="80" height="40" as="geometry" />
         </mxCell>
@@ -853,6 +856,33 @@
         </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-54" value="虚假感觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-56" target="P7pmvgULlBqukxCQ3UOA-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-56" target="P7pmvgULlBqukxCQ3UOA-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-56" target="P7pmvgULlBqukxCQ3UOA-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-56" target="P7pmvgULlBqukxCQ3UOA-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-56" value="无痛社交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-58" value="共同体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-60" value="一席之交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-61" value="沟通透明度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-62" value="成长心态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
