@@ -705,13 +705,13 @@
         <mxCell id="P7pmvgULlBqukxCQ3UOA-4" value="社交心理负担" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P7pmvgULlBqukxCQ3UOA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-6" target="P7pmvgULlBqukxCQ3UOA-10">
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-11" value="需要" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-6" target="P7pmvgULlBqukxCQ3UOA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-6" value="社交心理成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P7pmvgULlBqukxCQ3UOA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-8" target="P7pmvgULlBqukxCQ3UOA-12">
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-13" value="采用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-8" target="P7pmvgULlBqukxCQ3UOA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-8" value="社交反馈&amp;amp;奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
