@@ -687,6 +687,12 @@
         <mxCell id="P7pmvgULlBqukxCQ3UOA-3" value="本质" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-1" target="P7pmvgULlBqukxCQ3UOA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-1" target="P7pmvgULlBqukxCQ3UOA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-1" target="P7pmvgULlBqukxCQ3UOA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-1" value="社交恐惧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -722,6 +728,131 @@
         </mxCell>
         <mxCell id="P7pmvgULlBqukxCQ3UOA-12" value="预防焦点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-14" target="P7pmvgULlBqukxCQ3UOA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-14" target="P7pmvgULlBqukxCQ3UOA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-14" target="P7pmvgULlBqukxCQ3UOA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-14" value="缺乏社交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-16" target="P7pmvgULlBqukxCQ3UOA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-16" value="社交隔离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-18" value="对大脑&lt;br&gt;产生损伤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-20" target="P7pmvgULlBqukxCQ3UOA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-20" value="缺乏联系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-22" value="影响幸福感" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-24" target="P7pmvgULlBqukxCQ3UOA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-24" target="P7pmvgULlBqukxCQ3UOA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-24" target="P7pmvgULlBqukxCQ3UOA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-24" value="构建联系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-26" value="自己与他人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-27" value="自己与世界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-30" target="P7pmvgULlBqukxCQ3UOA-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-30" target="P7pmvgULlBqukxCQ3UOA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-30" target="P7pmvgULlBqukxCQ3UOA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-30" value="类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-31" value="对社交技巧&lt;br&gt;的恐惧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-32" value="对对方感受&lt;br&gt;的恐惧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-33" value="对不确定性&lt;br&gt;的恐惧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="820" />
+              <mxPoint x="200" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-38" target="P7pmvgULlBqukxCQ3UOA-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-38" value="真实社交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-40" target="P7pmvgULlBqukxCQ3UOA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-40" value="社交预期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-41" target="P7pmvgULlBqukxCQ3UOA-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-41" value="好感落差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-43" value="高估难度&lt;br&gt;低估预期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-46" value="别人更喜欢你" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-48" target="P7pmvgULlBqukxCQ3UOA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-48" value="双向评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-50" value="别人也在等你的评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P7pmvgULlBqukxCQ3UOA-52" target="P7pmvgULlBqukxCQ3UOA-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-52" value="社交疼痛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7pmvgULlBqukxCQ3UOA-54" value="虚假感觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
