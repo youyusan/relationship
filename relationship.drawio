@@ -4,8 +4,74 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qqqypx-3CV-YIz5YHnrH-1" value="情绪智力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="80" height="40" as="geometry" />
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-1" value="输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-2" value="处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-3" value="输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-4" value="目标人群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-5" value="社交渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-6" value="社交活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-7" value="社交好友" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-8" value="社交故事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-9" value="机会追踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-10" value="月度总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqqypx-3CV-YIz5YHnrH-11" target="qqqypx-3CV-YIz5YHnrH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-11" value="价值交换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-12" value="投资回报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-13" value="成功案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-14" value="付出清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqqypx-3CV-YIz5YHnrH-16" target="qqqypx-3CV-YIz5YHnrH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqqypx-3CV-YIz5YHnrH-16" target="qqqypx-3CV-YIz5YHnrH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-16" value="社交技巧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqqypx-3CV-YIz5YHnrH-17" target="qqqypx-3CV-YIz5YHnrH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-17" value="开场白、表扬、询问、说服、故事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-19" value="AI 训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-21" value="社交计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqqypx-3CV-YIz5YHnrH-23" value="脱口秀故事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
