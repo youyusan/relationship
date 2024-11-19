@@ -114,6 +114,9 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-35" target="AEj-KMiuFNynOYT03KIb-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-35" target="AEj-KMiuFNynOYT03KIb-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-35" value="需要克服的潜在障碍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -123,6 +126,9 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-37" target="AEj-KMiuFNynOYT03KIb-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-37" target="AEj-KMiuFNynOYT03KIb-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-37" value="如何克服潜在障碍？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -130,7 +136,19 @@
           <mxGeometry x="-40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-40" value="想法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-43" target="AEj-KMiuFNynOYT03KIb-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-43" value="拆分成阶段性目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-45" value="工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-47" value="成功后如何庆祝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
