@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="行动计划" id="g7bI6O3wesZc79Nfie9q">
-    <mxGraphModel dx="2049" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1820" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-2" value="想要达成什么结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-3" target="AEj-KMiuFNynOYT03KIb-5">
           <mxGeometry relative="1" as="geometry" />
@@ -49,8 +49,11 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-20" target="AEj-KMiuFNynOYT03KIb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-20" target="AEj-KMiuFNynOYT03KIb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-20" value="如何知道结果已达成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-22" target="AEj-KMiuFNynOYT03KIb-26">
           <mxGeometry relative="1" as="geometry" />
@@ -62,16 +65,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-22" value="会发生哪些改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-24" value="行为发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-25" value="感受发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-26" value="认知发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-2" target="AEj-KMiuFNynOYT03KIb-11">
           <mxGeometry relative="1" as="geometry" />
@@ -79,8 +82,8 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-11" target="AEj-KMiuFNynOYT03KIb-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="420" />
-              <mxPoint x="120" y="340" />
+              <mxPoint x="120" y="300" />
+              <mxPoint x="120" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,22 +94,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-11" value="衡量标准是什么？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-14" target="AEj-KMiuFNynOYT03KIb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-14" value="是可以达成的吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-15" target="AEj-KMiuFNynOYT03KIb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-15" value="获得什么样的结果&lt;br&gt;代表了成功？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-18" value="Smart 原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-35" target="AEj-KMiuFNynOYT03KIb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-35" value="需要克服的潜在障碍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-37" target="AEj-KMiuFNynOYT03KIb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-37" target="AEj-KMiuFNynOYT03KIb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-37" value="如何克服潜在障碍？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-39" value="解决方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-40" value="想法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
