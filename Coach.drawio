@@ -16,6 +16,9 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-2" target="AEj-KMiuFNynOYT03KIb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-2" target="AEj-KMiuFNynOYT03KIb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-2" value="想要达成什么结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -43,6 +46,12 @@
         <mxCell id="AEj-KMiuFNynOYT03KIb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-11" target="AEj-KMiuFNynOYT03KIb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-11" target="AEj-KMiuFNynOYT03KIb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-11" target="AEj-KMiuFNynOYT03KIb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-11" value="衡量标准是什么？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -60,6 +69,33 @@
         </mxCell>
         <mxCell id="AEj-KMiuFNynOYT03KIb-18" value="Smart 原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-20" target="AEj-KMiuFNynOYT03KIb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-20" value="如何知道结果已达成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-22" target="AEj-KMiuFNynOYT03KIb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-22" target="AEj-KMiuFNynOYT03KIb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEj-KMiuFNynOYT03KIb-22" target="AEj-KMiuFNynOYT03KIb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-22" value="会发生哪些改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-24" value="行为发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-25" value="感受发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj-KMiuFNynOYT03KIb-26" value="认知发生什么改变？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
