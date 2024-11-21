@@ -1414,11 +1414,17 @@
         <mxCell id="OoNmeEFvJIFZLKkWrPTO-14" value="断章取义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoNmeEFvJIFZLKkWrPTO-15" target="OoNmeEFvJIFZLKkWrPTO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OoNmeEFvJIFZLKkWrPTO-15" value="因人废言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoNmeEFvJIFZLKkWrPTO-16" value="无由反对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-21" value="因人废言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
