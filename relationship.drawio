@@ -1408,16 +1408,16 @@
         <mxCell id="OoNmeEFvJIFZLKkWrPTO-8" value="寻求共识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoNmeEFvJIFZLKkWrPTO-13" value="无效沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-13" value="简单立论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoNmeEFvJIFZLKkWrPTO-14" value="无效沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-14" value="断章取义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoNmeEFvJIFZLKkWrPTO-15" value="无效沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-15" value="因人废言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoNmeEFvJIFZLKkWrPTO-16" value="无效沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoNmeEFvJIFZLKkWrPTO-16" value="无由反对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
