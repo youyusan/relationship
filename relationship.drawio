@@ -1756,12 +1756,55 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VCbtcR8YuSKFjL6KAf76" name="沟通：软性">
-    <mxGraphModel dx="1709" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OMS_Wa-LIIASvYv0UN_8-1" value="明确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-760" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-1" value="软性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-2" target="OMS_Wa-LIIASvYv0UN_8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-2" target="OMS_Wa-LIIASvYv0UN_8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-2" value="说服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-4" target="OMS_Wa-LIIASvYv0UN_8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-4" value="放在对立面上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-6" value="对抗/胜负" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-8" target="OMS_Wa-LIIASvYv0UN_8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-8" value="合作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-11" target="OMS_Wa-LIIASvYv0UN_8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-11" value="圈子效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-13" value="共识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
