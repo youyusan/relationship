@@ -1768,10 +1768,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-760" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-1" target="OMS_Wa-LIIASvYv0UN_8-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-1" value="软性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-800" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-2" target="OMS_Wa-LIIASvYv0UN_8-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1795,16 +1811,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-8" value="合作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-640" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OMS_Wa-LIIASvYv0UN_8-11" target="OMS_Wa-LIIASvYv0UN_8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-11" value="圈子效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-480" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMS_Wa-LIIASvYv0UN_8-13" value="共识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-320" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-15" value="寻求共同目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-16" value="诉诸利益" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-17" value="给别人一张&lt;br&gt;梯子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMS_Wa-LIIASvYv0UN_8-21" value="避免习惯性&lt;br&gt;反驳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
